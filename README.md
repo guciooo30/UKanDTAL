@@ -1,2 +1,2 @@
 # UKanDTAL
-UKanDTAL:Uncertainty-Aware Kolmogorov-Arnold Networks For Kinase–Ligand Affinity Prediction
+UKanDTAL: Calibrated Uncertainty-Aware Protein–Ligand Affinity Prediction Based on Pre-trained Models and Kolmogorov-Arnold Networks
