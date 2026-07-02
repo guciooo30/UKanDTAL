@@ -1,4 +1,4 @@
-name: lbsdtia
+name: UKanDTAL
 channels:
   - pytorch
   - nvidia
@@ -202,4 +202,4 @@ dependencies:
       - xmltodict==1.0.2
       - xxhash==3.6.0
       - yarl==1.22.0
-prefix: /home/wangbq/.conda/envs/lbsdtia
+prefix: /home/wangbq/.conda/envs/UKanDTAL
